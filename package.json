@@ -1,0 +1,24 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Get current time &amp; weather given a location and zip code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naldokan/Weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naldokan/Weather/issues"
+  },
+  "homepage": "https://github.com/naldokan/Weather#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fahrenheit-to-celsius": "^1.0.0",
+    "yargs": "^13.2.2"
+  }
+}
